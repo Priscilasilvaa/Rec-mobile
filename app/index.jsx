@@ -9,8 +9,8 @@ const Home = () => {
       <Image
         source={require('../assets/images/hero.png')}
       />
-      <Text style={styles.paragraph}>A Prefeitura do Recife proporciona a democratização do espaço público nas movimentadas vias do Centro com o Estacionamento Zona Azul. 
-        Os condutores contam, hoje em dia, com mais de 3.500 vagas destinadas a carros, ônibus de turismo, táxis e veículos de carga e descarga.</Text>
+      <Text style={styles.paragraph}>A Prefeitura do Recife proporciona a democratização do espaço público nas movimentadas vias do Centro com o projeto Faixa Azul. 
+      As faixas azuis conectam as cidades e representam um alívio para passageiros e motoristas que reside no Grande Recife e precisa entrar e sair do Recife diariamente.</Text>
     </SafeAreaView>
 
   )
